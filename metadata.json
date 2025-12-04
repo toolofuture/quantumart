@@ -1,0 +1,5 @@
+{
+  "name": "QuantumArt",
+  "description": "A sophisticated AI web app that uses simulated quantum computing to verify artwork authenticity against a global gallery network database.",
+  "requestFramePermissions": []
+}
